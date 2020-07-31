@@ -4,7 +4,7 @@
 
 2020/07 update:
 
-For js13kgames devs: collection of tiny sounds in mp3 (128kbps + 96kbps mono):
+For js13kgames devs: collection of tiny sounds in mp3 (128kbps + 96kbps mono + 48kbps mono):
 - Browse: https://github.com/xem/GameAudioBundleMP3/tree/gh-pages/js13k
 - Download: https://xem.github.io/GameAudioBundleMP3/js13k/js13k.zip
 
